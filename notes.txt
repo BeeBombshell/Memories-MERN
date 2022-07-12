@@ -15,3 +15,13 @@ Installing the dependencies:
 - express => Express framework for routing of the application
 - mongoose => MongoDB modules for our posts
 - nodemon => To refresh the server everytime we make a change in the code
+
+
+* Earlier we used to import like:
+> const express = require('express');
+But with the newer versions of node we can use the following:
+> import express from 'express';
+(but with the help of a single modification in the package.json)
+
+Below main (line 5) add - 
+> "type": "module"
