@@ -14,7 +14,7 @@ Installing the dependencies:
 - `redux`
 - `redux-thunk` => for async actions using redux
 
-## For Server side:
+## For Server side :open_file_folder:
 
 use the command to initialize the an empty package.json:
 > npm init -y
