@@ -2,6 +2,7 @@
 
 *Tech Stack Used: React, Node, Express, MongoDB*
 
+
 ## For Client side :bookmark_tabs:
 
 Initialize a React App
@@ -13,6 +14,7 @@ Initialize a React App
 - `react-file-base64` => To convert images
 - `redux`
 - `redux-thunk` => for async actions using redux
+
 
 ## For Server side :open_file_folder:
 
