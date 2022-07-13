@@ -7,7 +7,7 @@ Tech Stack Used: React, Node, Express, MongoDB
 Initialize a React App
 > yarn create-react-app ./
 
-Installing the dependencies:
+:bookmark: Installing the dependencies:
 - `axios` => for making API requests
 - `moment` => for time and dates
 - `react-file-base64` => To convert images
@@ -19,7 +19,7 @@ Installing the dependencies:
 use the command to initialize the an empty package.json:
 > npm init -y
 
-Installing the dependencies:
+:bookmark: Installing the dependencies:
 - `body-parser` => To enable us to send post requests
 - `cors` => To enable cross-origin requests
 - `express` => Express framework for routing of the application
