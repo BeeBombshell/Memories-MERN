@@ -1,6 +1,6 @@
 # Memories :star2:
 
-Tech Stack Used: React, Node, Express, MongoDB
+*Tech Stack Used: React, Node, Express, MongoDB*
 
 ## For Client side :bookmark_tabs:
 
