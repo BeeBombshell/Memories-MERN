@@ -13,3 +13,15 @@ Installing the dependencies:
 - `react-file-base64` => To convert images
 - `redux`
 - `redux-thunk` => for async actions using redux
+
+## For Server side:
+
+use the command to initialize the an empty package.json:
+> npm init -y
+
+Installing the dependencies:
+- `body-parser` => To enable us to send post requests
+- `cors` => To enable cross-origin requests
+- `express` => Express framework for routing of the application
+- `mongoose` => MongoDB modules for our posts
+- `nodemon` => To refresh the server everytime we make a change in the code
