@@ -2,7 +2,7 @@
 
 Tech Stack Used: React, Node, Express, MongoDB
 
-## For Client side:
+## For Client side :bookmark_tabs:
 
 Initialize a React App
 > yarn create-react-app ./
