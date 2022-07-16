@@ -3,6 +3,7 @@
 *Tech Stack Used: React, Node, Express, MongoDB*
 
 ## Introduction :bookmark_tabs:
+Memories is a full stack social media MERN application.
 
 ## For Client side :bookmark_tabs:
 
