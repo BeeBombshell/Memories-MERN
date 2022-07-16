@@ -4,6 +4,7 @@
 
 ## Introduction :bookmark_tabs:
 Memories is a full stack social media MERN application.
+Memories allows users to post and share their memories and interesting events in their lives.
 
 ## For Client side :bookmark_tabs:
 
